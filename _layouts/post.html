@@ -119,6 +119,7 @@ layout: default
 {% endif %}
 
 {% if site.disqus_shortname %}
+{% include comments.html %}
 {% unless page.disqus_disabled %}
 <section class="disqus">
   <div id="disqus_thread"></div>
