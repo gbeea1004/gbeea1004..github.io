@@ -9,7 +9,7 @@ comments : true
 
 ### 성공하는 프로그래밍 공부법 - 박재성
 
-![book1]("/assets/books/book1.png"){: width="100" height="100"}
+![book1]("/assets/books/book1.png")
 
 이 책은 현재 내가 다니고있는 '코드스쿼드' 마스터 Pobi(박재성)가 출간한 책이다.
 코드스쿼드에서 Pobi의 강의를 들으면서 알게된 책인데, 올해 9월 10일에 발행한 나온지 얼마 안된 따끈따끈한 책이다.
