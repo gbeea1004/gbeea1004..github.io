@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "성공하는 프로그래밍 공부법"
+date:   2018-09-25 19:27:59
+author: Lime
+categories: Book
+comments : true
+---
+
+### Clean Code - 로버트C.마틴
+
+읽는중..
