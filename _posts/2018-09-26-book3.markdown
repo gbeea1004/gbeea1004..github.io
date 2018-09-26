@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "객체지향의 사실과 오해"
+date:   2018-09-26 20:38:59
+author: Lime
+categories: Book
+comments : true
+---
+
+### 객체지향의 사실과 오해 - 로버트C.마틴
+
+읽는중..
